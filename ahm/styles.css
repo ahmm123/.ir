@@ -1,0 +1,22 @@
+.header {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+}
+.header img {
+    width: 100px;
+    height:100px;
+    margin-left: 10px;
+    float: left;
+}
+.header h1 {
+    color: white;
+    margin-left: 20px;
+}
+.header h4 {
+    color: white;
+}
+.content {
+    text-align: right;
+    background-color: aquamarine;
+}
